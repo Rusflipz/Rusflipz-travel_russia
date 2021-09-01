@@ -1,9 +1,21 @@
+.section-subtitle {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 400;
+}
+
+.section-title {
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 900;
+}
+
 .cover__background {
     display: flex;
     flex-direction: column;
     justify-content: center;
     position: relative;
-    background-image: url(../../../images/cover-trains.jpg);
+    background-image: url(../images/cover-trains.jpg);
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -244,7 +256,7 @@
     height: 52px;
     margin-left: 48px;
     margin-top: 28px;
-    background-image: url(../../../images/header-logo.svg);
+    background-image: url(../images/header-logo.svg);
     background-size: cover;
     background-position: center;
 }
@@ -715,12 +727,6 @@
     }
 }
 
-.section-subtitle {
-    margin: 0 auto;
-    text-align: center;
-    font-weight: 400;
-}
-
 .section-title_place_cover {
     position: relative;
     margin: 0 auto;
@@ -801,10 +807,4 @@
         line-height: 44px;
         margin-bottom: 16px;
     }
-}
-
-.section-title {
-    margin: 0 auto;
-    text-align: center;
-    font-weight: 900;
 }
