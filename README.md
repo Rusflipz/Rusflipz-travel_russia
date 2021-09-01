@@ -16,7 +16,7 @@
 
 **GitHub**
 
-* [Ссылка на репозиторий GitHub]https://rusflipz.github.io/trevel_russia/)
+* [Ссылка на репозиторий GitHub]https://rusflipz.github.io/Rusflipz-trevel_russia/)
 
 **Выводы**
 
