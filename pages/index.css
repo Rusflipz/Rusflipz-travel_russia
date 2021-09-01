@@ -10,6 +10,20 @@
     font-weight: 900;
 }
 
+.header__lang-link {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height, or 117% */
+    cursor: pointer;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
 .cover__background {
     display: flex;
     flex-direction: column;
@@ -201,20 +215,6 @@
 
 .header__lang-link_selected {
     text-decoration: underline;
-}
-
-.header__lang-link {
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    /* identical to box height, or 117% */
-    cursor: pointer;
-    color: #FFFFFF;
-    text-decoration: none;
-}
-
-.header__lang-link:hover {
-    opacity: 0.8;
 }
 
 @media screen and (max-width: 500px) {
